@@ -1,2 +1,2 @@
 # RASPISANIE-MAINDATA
-MainData for app
+NOTHING HERE
