@@ -1,0 +1,2 @@
+# RASPISANIE-MAINDATA
+MainData for app
